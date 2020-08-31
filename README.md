@@ -2,7 +2,7 @@ The scripts in this directory can be used to recreate the results and figures fr
 
 Notes:
 
-* The otu count and taxonomies were generated via the hundo pipeline created by Joe Brown (https://github.com/pnnl/hundo) 
+* The OTU count tables and taxonomies were generated via the hundo pipeline created by Joe Brown (https://github.com/pnnl/hundo) 
 * 16S and ITS refer to prokaryotic and fungal data respectively.
 * There is an error in USEARCH which caused one of the fungal OTUs in the .txt file to be missing an OTU label. 
 See "k__Fungi,p__Basidiomycota,c__Agaricomycetes,o__Agaricales,f__Inocybaceae,g__Crepidotus,s__?" in ITS_OTU.txt.
