@@ -9,4 +9,4 @@ See "k__Fungi,p__Basidiomycota,c__Agaricomycetes,o__Agaricales,f__Inocybaceae,g_
 This needs to be corrected by entering OTU_2583 for that taxa, as it has been in the supplied DEVITS_otu.csv file.
 * Soil and Compartment refer to System and Root proximity respectively.
 
-Feel free to email me cjwattenburger@gmail.com if you run into any problems or have questions.
+Feel free to email me cjwattenburger@gmail.com if you have any questions.
