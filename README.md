@@ -1,6 +1,6 @@
 The scripts in this directory can be used to recreate the results and figures from my paper, **Agricultural Management Affects Root-Associated Microbiome Recruitment over Maize Development (2019)**. Link: https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-03-19-0016-R
 
-*Notes*:
+Notes:
 
 * The otu count and taxonomies were generated via the hundo pipeline created by Joe Brown (https://github.com/pnnl/hundo) 
 * 16S and ITS refer to prokaryotic and fungal data respectively.
